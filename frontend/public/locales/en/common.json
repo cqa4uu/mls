@@ -1,0 +1,78 @@
+{
+    "navigation": {
+        "menu": "Menu",
+        "login": "Login",
+        "registration": "Registration",
+        "services": "Services",
+        "servicesMetaDescription": "Cargo container transportation from China to Russia by the «MLS» transport company. Transportation of goods by road and air, by sea, railway transportation, and other services.",
+        "containers": "Containers",
+        "containersMetaDescription": "Containers of the logistics company MLS: standard containers, platform containers, open-top containers, refrigerated containers.",
+        "about": "About",
+        "news": "News",
+        "newsMetaDescription": "Company MLS News.",
+        "contacts": "Contacts",
+        "contactsMetaDescription": "Contacts of the company MLS: St. Petersburg, Novorossiysk."
+    },
+    "links": {
+        "containers": "Containers"
+    },
+    "content": {
+        "cargo": "Smart logistics",
+        "reviewInfo": "80t. customers are satisfied with our services",
+        "reviewBtn": "Leave a review",
+        "trustUsP1": "us",
+        "trustUsP2": "trust",
+        "sendText": "Send the cargo",
+        "sendRequest": "Send a request",
+        "callback": "Callback",
+        "phone": "Phone",
+        "mail": "E-mail",
+        "address": "Address",
+        "capacity": "Capacity",
+        "dimensionsInside": "Dimensions inside",
+        "cCargo": "Cargo",
+        "maxWeight": "Max. weight",
+        "openNews": "Open the news",
+        "name": "Name",
+        "namePl": "Ivan Ivanovich",
+        "question": "Question",
+        "questionPl": "Please briefly outline the essence of your question.",
+        "review": "Review",
+        "reviewPl": "Evaluate our logistics services and share your feedback – your review is important to us!",
+        "submit": "Submit",
+        "fieldsRequired": "All fields are mandatory",
+        "accept": "By clicking submit, you agree",
+        "privacy": "privacy policy",
+        "newsIsEmpty": "There is no news yet",
+        "loadMore": "Show more"
+    },
+    "containers": {
+        "standard": "Standard Containers",
+        "platform": "Platform Container",
+        "opentop": "Open-Top Containers",
+        "refrigerated": "Refrigerated Containers"
+    },
+    "calculateCost": {
+        "title": "Calculate the cost",
+        "val1": "One path",
+        "val2": "Multiple paths",
+        "val3": "Dangerous goods",
+        "from": "From",
+        "fromPl": "The point of recovery",
+        "to": "To",
+        "toPl": "Destination point",
+        "cargoType": "Type of cargo",
+        "contacts": "Contacts"
+    },
+    "footer": {
+        "navBtnText": "scroll up",
+        "privacy": "privacy policy"
+    },
+    "form": {
+        "success": "Message successfully sent",
+        "validation": "There are errors in the form",
+        "internal": "Internal server error",
+        "default": "Unknown error",
+        "route": "Route"
+    }
+}
